@@ -2,7 +2,7 @@ public class Address extends Object{
 
     String houseno;
     String street;
-    String district;
+    String diZXCstrict;
     String state;
     String country;
 
